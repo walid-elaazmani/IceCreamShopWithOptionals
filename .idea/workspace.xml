@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff8a532-64c2-4d24-a662-73a762674867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IceCreamShopWithOptionals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamAppV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Cone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/IceRocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Magnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/PriceList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/Profitable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/Stock.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ff8a532-64c2-4d24-a662-73a762674867" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
