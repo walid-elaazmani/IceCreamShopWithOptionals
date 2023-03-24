@@ -65,14 +65,18 @@ public class IceCreamCar implements IceCreamSeller {
         }
     }
 
+    public void eatPrinter(Optional[] eatables){
+        for (Optional<Eatable> eatable : eatables) {
+            eatable.ifPresent(Eatable::eat);
+        }
+    }
+
     @Override
     public Optional<Eatable> orderMagnum(Magnum.MagnumType type) {
 
         Optional<Eatable> check = prepareMagnum(type);
 
-        if(check.isPresent()){
-            profit += priceList.getMagnumPrice(type) * 0.01;
-        }
+        check.ifPresent(p -> {profit += priceList.getMagnumPrice(type) * 0.01;});
 
         return check;
     }

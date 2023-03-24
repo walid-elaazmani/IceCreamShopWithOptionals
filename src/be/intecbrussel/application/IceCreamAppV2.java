@@ -31,9 +31,7 @@ public class IceCreamAppV2 {
         };
 
 
-        for (Optional<Eatable> eatable : eatables) {
-                eatable.ifPresent(Eatable::eat);
-            }
+        iceCreamCar.eatPrinter(eatables);
 
 
         System.out.format("%.2f € \n", iceCreamCar.getProfit());
